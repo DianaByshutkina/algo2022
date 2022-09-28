@@ -1,0 +1,10 @@
+A=[2,3,5,1]
+Res=[0]*10
+for el in A:
+    Res[el]+=1
+for i in range(len(Res)):
+    for j in range(Res[i]):
+        print(i)
+        
+        
+        

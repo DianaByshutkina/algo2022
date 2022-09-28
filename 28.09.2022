@@ -8,3 +8,15 @@ for i in range(len(Res)):
         
         
         
+A=[]
+prt=0
+r=int(input())
+for j in range (l,prt):
+    l,r=int(input()),int(input())
+for j in range (l,prt):
+    prt+=A[j]
+print(prt)
+
+
+
+
